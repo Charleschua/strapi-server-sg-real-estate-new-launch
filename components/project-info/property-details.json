@@ -1,0 +1,42 @@
+{
+  "collectionName": "components_project_info_property_details",
+  "info": {
+    "name": "Property Details",
+    "icon": "home",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ProjectName": {
+      "type": "string"
+    },
+    "Road": {
+      "type": "string"
+    },
+    "Location": {
+      "type": "string"
+    },
+    "District": {
+      "type": "string"
+    },
+    "Region": {
+      "type": "string"
+    },
+    "Country": {
+      "type": "string"
+    },
+    "Category": {
+      "type": "string"
+    },
+    "BroadRegion": {
+      "type": "enumeration",
+      "enum": [
+        "CCR",
+        "RCR",
+        "OCR"
+      ],
+      "required": true,
+      "unique": true
+    }
+  }
+}

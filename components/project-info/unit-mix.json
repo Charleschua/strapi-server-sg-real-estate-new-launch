@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_project_info_unit_mixes",
+  "info": {
+    "name": "UnitMix",
+    "icon": "key",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "BedroomType": {
+      "type": "string",
+      "required": true
+    },
+    "AreaSqft": {
+      "type": "string",
+      "required": true
+    },
+    "Units": {
+      "type": "integer",
+      "required": true
+    }
+  }
+}

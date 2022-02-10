@@ -1,0 +1,10 @@
+{
+  "collectionName": "components_project_info_location_maps",
+  "info": {
+    "name": "LocationMap",
+    "icon": "map-marker-alt",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {}
+}

@@ -1,0 +1,8 @@
+{
+  "provider": "cloudinary",
+  "providerOptions": {
+    "cloud_name": "charlescloud",
+    "api_key": "737972524829861",
+    "api_secret": "oYdcW5wu4LEjsRH6z3C-ucNZ6-c"
+  }
+}
