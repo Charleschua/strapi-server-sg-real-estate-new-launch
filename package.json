@@ -12,6 +12,7 @@
   "dependencies": {
     "@strapi/provider-upload-cloudinary": "^4.1.0",
     "knex": "0.21.18",
+    "node-pre-gyp": "^0.17.0",
     "pg": "^8.7.3",
     "sqlite3": "5.0.0",
     "strapi": "3.6.8",
