@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@strapi/provider-upload-cloudinary": "^4.1.0",
+    "cli-table3": "^0.6.1",
     "knex": "0.21.18",
     "node-pre-gyp": "^0.17.0",
     "pg": "^8.7.3",
@@ -36,7 +37,7 @@
     "uuid": "46839647-1872-446b-8e82-9b2222f0af82"
   },
   "engines": {
-    "node": ">=10.16.0 <=16.x.x",
+    "node": ">=10.16.0 <=14.x.x",
     "npm": "^6.0.0"
   },
   "license": "MIT",
