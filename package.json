@@ -17,6 +17,7 @@
     "node-pre-gyp": "^0.17.0",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
+    "saslprep": "^1.0.3",
     "sqlite3": "5.0.0",
     "strapi": "3.6.8",
     "strapi-admin": "3.6.8",
