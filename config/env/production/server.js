@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env('MY_HEROKU_URL'),
+  url: env('https://whispering-atoll-93697/herokuapp.com'),
 });
