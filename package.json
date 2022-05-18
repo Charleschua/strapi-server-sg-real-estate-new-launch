@@ -15,7 +15,6 @@
     "jwk-to-pem": "^2.0.5",
     "knex": "0.21.18",
     "node-pre-gyp": "^0.17.0",
-    "parse": "^3.4.2",
     "pg": "^8.7.3",
     "pg-connection-string": "^2.5.0",
     "saslprep": "^1.0.3",
