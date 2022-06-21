@@ -1,4 +1,4 @@
-/* module.exports = ({ env }) => ({
+module.exports = ({ env }) => ({
   defaultConnection: 'default',
   connections: {
     default: {
@@ -13,8 +13,8 @@
     },
   },
 });
- */
 
+/*
 const parse =
   process.env.NODE_ENV === "development"
     ? () => ""
@@ -62,3 +62,4 @@ module.exports = ({ env }) => ({
       ? devConnections(env)
       : productionConnections(env),
 });
+ */
